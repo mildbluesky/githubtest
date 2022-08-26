@@ -1,0 +1,8 @@
+깃 공부
+1.시작하기
+1.1. 버전관리란?
+	: 데이터 백업을 해, 안정성을 고려한 것
+	: 최초 개인개발 시, 하드에 데이터 백업 (로컬버전관리 VCS-Version Control System 도구중 RCS 주로 사용)
+	: 그 후 중앙집중식 버전관리(CVCS - Center Version Control System) : 중앙 시스템에 문제 있을 시 타격
+	: 그 후 분산버전관리(DVCS - Dispersion Version Control System) : 중앙 시스템 문제 있을 시 로컬에서 클론이 가능해짐
+	
